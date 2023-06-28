@@ -1,0 +1,91 @@
+Year,Region,AnnualMeanTemp,Country_x,AnnualPrecip,Country_y
+2013,Ashanti,26.99,Ghana,1208.32,Ghana
+2014,Ashanti,27.1,Ghana,1341.62,Ghana
+2015,Ashanti,27.28,Ghana,1220.58,Ghana
+2016,Ashanti,27.56,Ghana,1289.41,Ghana
+2017,Ashanti,27.38,Ghana,1296.8,Ghana
+2018,Ashanti,27.26,Ghana,1388.8,Ghana
+2019,Ashanti,27.15,Ghana,1593.53,Ghana
+2020,Ashanti,27.41,Ghana,1323.55,Ghana
+2021,Ashanti,27.55,Ghana,1449.68,Ghana
+2013,Brong Ahafo,27.4,Ghana,1122.25,Ghana
+2014,Brong Ahafo,27.53,Ghana,1238.91,Ghana
+2015,Brong Ahafo,27.67,Ghana,1093.42,Ghana
+2016,Brong Ahafo,27.94,Ghana,1186.77,Ghana
+2017,Brong Ahafo,27.77,Ghana,1086.06,Ghana
+2018,Brong Ahafo,27.67,Ghana,1337.95,Ghana
+2019,Brong Ahafo,27.53,Ghana,1437.83,Ghana
+2020,Brong Ahafo,27.83,Ghana,1228.18,Ghana
+2021,Brong Ahafo,27.99,Ghana,1277.33,Ghana
+2013,Central,26.84,Ghana,1109.18,Ghana
+2014,Central,26.93,Ghana,1225.72,Ghana
+2015,Central,27.09,Ghana,1146.96,Ghana
+2016,Central,27.41,Ghana,1217.59,Ghana
+2017,Central,27.23,Ghana,1334.92,Ghana
+2018,Central,27.07,Ghana,1260.38,Ghana
+2019,Central,26.98,Ghana,1489.66,Ghana
+2020,Central,27.25,Ghana,1223.0,Ghana
+2021,Central,27.38,Ghana,1326.6,Ghana
+2013,Eastern,27.03,Ghana,1168.58,Ghana
+2014,Eastern,27.15,Ghana,1309.73,Ghana
+2015,Eastern,27.32,Ghana,1183.06,Ghana
+2016,Eastern,27.61,Ghana,1242.21,Ghana
+2017,Eastern,27.42,Ghana,1246.58,Ghana
+2018,Eastern,27.31,Ghana,1265.02,Ghana
+2019,Eastern,27.19,Ghana,1615.79,Ghana
+2020,Eastern,27.47,Ghana,1164.39,Ghana
+2021,Eastern,27.61,Ghana,1333.1,Ghana
+2013,Greater Accra,27.38,Ghana,918.93,Ghana
+2014,Greater Accra,27.49,Ghana,1016.49,Ghana
+2015,Greater Accra,27.66,Ghana,916.05,Ghana
+2016,Greater Accra,27.95,Ghana,971.93,Ghana
+2017,Greater Accra,27.76,Ghana,1010.53,Ghana
+2018,Greater Accra,27.62,Ghana,946.0,Ghana
+2019,Greater Accra,27.53,Ghana,1262.7,Ghana
+2020,Greater Accra,27.8,Ghana,867.13,Ghana
+2021,Greater Accra,27.94,Ghana,971.27,Ghana
+2013,Northern,28.34,Ghana,1055.83,Ghana
+2014,Northern,28.49,Ghana,1180.0,Ghana
+2015,Northern,28.58,Ghana,1030.3,Ghana
+2016,Northern,28.79,Ghana,1161.82,Ghana
+2017,Northern,28.63,Ghana,978.34,Ghana
+2018,Northern,28.58,Ghana,1264.65,Ghana
+2019,Northern,28.42,Ghana,1343.73,Ghana
+2020,Northern,28.74,Ghana,1214.17,Ghana
+2021,Northern,28.97,Ghana,1133.47,Ghana
+2013,Upper East,29.05,Ghana,914.78,Ghana
+2014,Upper East,29.2,Ghana,1028.95,Ghana
+2015,Upper East,29.19,Ghana,970.95,Ghana
+2016,Upper East,29.41,Ghana,1037.25,Ghana
+2017,Upper East,29.24,Ghana,907.17,Ghana
+2018,Upper East,29.22,Ghana,1067.37,Ghana
+2019,Upper East,29.03,Ghana,1124.53,Ghana
+2020,Upper East,29.33,Ghana,1124.23,Ghana
+2021,Upper East,29.68,Ghana,1010.18,Ghana
+2013,Upper West,28.66,Ghana,954.9,Ghana
+2014,Upper West,28.81,Ghana,1087.76,Ghana
+2015,Upper West,28.87,Ghana,921.61,Ghana
+2016,Upper West,29.09,Ghana,1086.05,Ghana
+2017,Upper West,28.96,Ghana,881.38,Ghana
+2018,Upper West,28.92,Ghana,1168.38,Ghana
+2019,Upper West,28.68,Ghana,1242.41,Ghana
+2020,Upper West,29.04,Ghana,1094.53,Ghana
+2021,Upper West,29.36,Ghana,1049.97,Ghana
+2013,Volta,27.5,Ghana,1134.53,Ghana
+2014,Volta,27.65,Ghana,1339.23,Ghana
+2015,Volta,27.77,Ghana,1130.42,Ghana
+2016,Volta,28.02,Ghana,1204.51,Ghana
+2017,Volta,27.86,Ghana,1186.38,Ghana
+2018,Volta,27.76,Ghana,1314.3,Ghana
+2019,Volta,27.64,Ghana,1600.11,Ghana
+2020,Volta,27.92,Ghana,1151.32,Ghana
+2021,Volta,28.08,Ghana,1281.51,Ghana
+2013,Western,26.92,Ghana,1223.53,Ghana
+2014,Western,27.01,Ghana,1450.66,Ghana
+2015,Western,27.17,Ghana,1355.36,Ghana
+2016,Western,27.49,Ghana,1322.1,Ghana
+2017,Western,27.33,Ghana,1584.6,Ghana
+2018,Western,27.16,Ghana,1668.96,Ghana
+2019,Western,27.04,Ghana,1663.42,Ghana
+2020,Western,27.31,Ghana,1524.82,Ghana
+2021,Western,27.42,Ghana,1622.0,Ghana
